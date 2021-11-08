@@ -1,0 +1,2 @@
+# SAT
+ Sissejuhatus andmeteadusse projekt
